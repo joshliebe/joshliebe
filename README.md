@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I'm Josh and I work at DuckDuckGo as a Senior Android Engineer, currently on the Android web browser 🌍\
-Based in London, originally from South Africa 🇿🇦
+I'm Josh, a Senior Android Engineer at 🦆🦆🟢
+
+🔭 Currently working on the [DuckDuckGo Android app](https://github.com/duckduckgo/Android)\
+📍 Originally from South Africa 🇿🇦, now based in London 🏙️\
+📫 Find me on [Mastodon](https://androiddev.social/@joshliebe) and [LinkedIn](https://uk.linkedin.com/in/joshualeibstein)
 
 <!--
 **joshliebe/joshliebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
